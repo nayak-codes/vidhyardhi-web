@@ -1,7 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
 import { Download, Users, MessageCircle, Star } from 'lucide-react';
-import { cn } from '../lib/utils';
 
 export function Showcase() {
     return (
