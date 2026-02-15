@@ -1,6 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import { ArrowRight, Download, PlayCircle } from 'lucide-react';
+import { Download, PlayCircle } from 'lucide-react';
 import Screen1 from '../assets/app-screens/screen1.jpg';
 import Screen2 from '../assets/app-screens/screen2.jpg';
 import Screen3 from '../assets/app-screens/screen3.jpg';

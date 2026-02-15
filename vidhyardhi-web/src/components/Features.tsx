@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { BookOpen, Calendar, Users, Search, ChevronRight, Play, FileText, Zap } from 'lucide-react';
+import { BookOpen, Calendar, Users, Play, FileText, Zap } from 'lucide-react';
 import { cn } from '../lib/utils';
 import { Link } from 'react-router-dom';
 
