@@ -71,7 +71,9 @@ export function Showcase() {
                             Get Vidhyardhi and experience the future of student life today.
                         </motion.p>
 
-                        <motion.button
+                        <motion.a
+                            href="/app-release.apk"
+                            download
                             initial={{ opacity: 0, y: 20 }}
                             whileInView={{ opacity: 1, y: 0 }}
                             viewport={{ once: true }}
@@ -81,7 +83,7 @@ export function Showcase() {
                             <Download className="w-6 h-6 mr-2" />
                             Download APK Now
                             <div className="absolute -inset-3 rounded-full bg-indigo-400/20 opacity-0 group-hover:opacity-100 blur-lg transition-opacity duration-200" />
-                        </motion.button>
+                        </motion.a>
                     </div>
                 </div>
             </div>
