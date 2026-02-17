@@ -52,7 +52,10 @@ export function Hero() {
                             </p>
 
                             <div className="flex flex-col sm:flex-row items-center gap-4 justify-center lg:justify-start">
-                                <a href="/app-relese01.apk" download className="w-full sm:w-auto px-8 py-4 bg-white text-slate-900 rounded-full font-bold flex items-center justify-center gap-2 hover:bg-slate-200 transition-colors">
+                                <a
+                                    href="https://github.com/nayak-codes/vidhyardhi-web/releases/download/v1.relese/app-relese01.apk"
+                                    className="w-full sm:w-auto px-8 py-4 bg-white text-slate-900 rounded-full font-bold flex items-center justify-center gap-2 hover:bg-slate-200 transition-colors"
+                                >
                                     <Download size={20} />
                                     Download for Android
                                 </a>
