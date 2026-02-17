@@ -72,7 +72,7 @@ export function Showcase() {
                         </motion.p>
 
                         <motion.a
-                            href="/app-release.apk"
+                            href="/app-relese01.apk"
                             download
                             initial={{ opacity: 0, y: 20 }}
                             whileInView={{ opacity: 1, y: 0 }}
