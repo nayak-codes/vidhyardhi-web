@@ -38,7 +38,7 @@ export function Hero() {
                             transition={{ duration: 0.5 }}
                         >
                             <span className="inline-block py-1 px-3 rounded-full bg-indigo-500/10 border border-indigo-500/20 text-indigo-400 text-xs font-semibold uppercase tracking-wider mb-6">
-                                v1.0 is Live
+                                v2.0 is Live
                             </span>
                             <h1 className="text-5xl lg:text-7xl font-bold leading-tight mb-6">
                                 Your Complete <br />
@@ -53,7 +53,7 @@ export function Hero() {
 
                             <div className="flex flex-col sm:flex-row items-center gap-4 justify-center lg:justify-start">
                                 <a
-                                    href="https://github.com/nayak-codes/vidhyardhi-web/releases/download/v1.relese/app-relese01.apk"
+                                    href="https://github.com/nayak-codes/vidhyardhi-web/releases/download/v1.0.0/V1.0.0.apk"
                                     className="w-full sm:w-auto px-8 py-4 bg-white text-slate-900 rounded-full font-bold flex items-center justify-center gap-2 hover:bg-slate-200 transition-colors"
                                 >
                                     <Download size={20} />

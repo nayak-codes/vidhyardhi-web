@@ -40,7 +40,7 @@ export function Navbar() {
                     <a href="#community" className="text-sm font-medium text-slate-300 hover:text-white transition-colors">Community</a>
                     <a href="/about" className="text-sm font-medium text-slate-300 hover:text-white transition-colors">About</a>
                     <a
-                        href="https://github.com/nayak-codes/vidhyardhi-web/releases/download/v1.relese/app-relese01.apk"
+                        href="https://github.com/nayak-codes/vidhyardhi-web/releases/download/v1.0.0/V1.0.0.apk"
                         className="bg-indigo-600 hover:bg-indigo-700 text-white px-5 py-2 rounded-full font-medium text-sm transition-all flex items-center gap-2"
                     >
                         <Download size={16} />
@@ -64,7 +64,7 @@ export function Navbar() {
                     <a href="#community" className="text-slate-300 hover:text-white py-2">Community</a>
                     <a href="#about" className="text-slate-300 hover:text-white py-2">About</a>
                     <a
-                        href="https://github.com/nayak-codes/vidhyardhi-web/releases/download/v1.relese/app-relese01.apk"
+                        href="https://github.com/nayak-codes/vidhyardhi-web/releases/download/v1.0.0/V1.0.0.apk"
                         className="bg-indigo-600 text-white w-full py-3 rounded-lg font-medium flex items-center justify-center gap-2"
                     >
                         <Download size={18} />

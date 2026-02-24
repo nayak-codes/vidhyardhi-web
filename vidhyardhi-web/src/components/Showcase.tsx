@@ -72,7 +72,7 @@ export function Showcase() {
                         </motion.p>
 
                         <motion.a
-                            href="https://github.com/nayak-codes/vidhyardhi-web/releases/download/v1.relese/app-relese01.apk"
+                            href="https://github.com/nayak-codes/vidhyardhi-web/releases/download/v1.0.0/V1.0.0.apk"
                             initial={{ opacity: 0, y: 20 }}
                             whileInView={{ opacity: 1, y: 0 }}
                             viewport={{ once: true }}
