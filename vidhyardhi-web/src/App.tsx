@@ -4,6 +4,7 @@ import { Home } from './pages/Home';
 import { PrivacyPolicy } from './pages/PrivacyPolicy';
 import { Terms } from './pages/Terms';
 import { About } from './pages/About';
+import { AccountDeletion } from './pages/AccountDeletion';
 
 import { Clips } from './pages/Clips';
 import { DocumentSaver } from './pages/DocumentSaver';
@@ -21,6 +22,7 @@ function App() {
         <Route path="/privacy" element={<PrivacyPolicy />} />
         <Route path="/terms" element={<Terms />} />
         <Route path="/about" element={<About />} />
+        <Route path="/account-deletion" element={<AccountDeletion />} />
 
         {/* Feature Pages */}
         <Route path="/features/clips" element={<Clips />} />

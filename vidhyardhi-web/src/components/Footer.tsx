@@ -13,9 +13,10 @@ export function Footer() {
                         <span className="text-xl font-bold text-white">Vidhyardhi</span>
                     </div>
 
-                    <div className="flex gap-8">
+                    <div className="flex gap-6 text-xs md:text-sm">
                         <a href="/privacy" className="hover:text-white transition-colors">Privacy</a>
                         <a href="/terms" className="hover:text-white transition-colors">Terms</a>
+                        <a href="/account-deletion" className="hover:text-white transition-colors">Account Deletion</a>
                         <a href="#" className="hover:text-white transition-colors">Contact</a>
                     </div>
 
